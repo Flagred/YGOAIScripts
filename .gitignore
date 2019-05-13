@@ -1,6 +1,0 @@
-Program.cs
-Logger.cs
-DuelBotInfo.cs
-Config.cs
-Game/*.cs
-!Game/AI
